@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(253, 215, 220);
+}
+div {
+    background-color: white;
+    border: 1px solid black;
+    padding: 14px;
+    width: 60%;
+    margin: 0 auto;
+}     
+fieldset {
+    margin-bottom: 12px;
+}
+legend {
+    background-color: rgb(255, 188, 202);
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+img{
+    border-radius: 50%;
+    margin-bottom: 12px;
+    float: left;
+    margin-left: 5px;
+    margin-right: 20px;
+    }
+    span{
+        font-weight: bold;
+    }
+h1, li, p{
+    font-family:'Rubik', sans-serif;
+}
+ div {
+    margin-bottom: 10px;
+ }
+ span{
+    margin-top: 10px;
+ }
